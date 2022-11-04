@@ -10,3 +10,7 @@ Projeto de um Card Pessoal descritivo, contendo descrição Sobre e Redes de Con
 ### Imagem:
 
 ![interface](https://github.com/LukasGuimaro/Card-Pessoal/blob/main/src/imagens/card-image.png)
+
+### Autor:
+
+@Lucas Borges Guimaro
